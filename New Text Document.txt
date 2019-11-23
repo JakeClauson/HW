@@ -1,0 +1,19 @@
+category and sub category
+
+Film & video/television 
+
+left allows y
+
+Test string =LEFT(A1,FIND("",A!)-1)
+
+-------------------\
+
+Date forumula has link for instructions
+
+
+------------------
+
+Bonus looking for successful w/ COUNTIF
+
+
+coloum 4 is the sum of the first 3
